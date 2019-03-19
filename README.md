@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## About Tana
 
-You can use the [editor on GitHub](https://github.com/tanafranko/tanafranko.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tana is a technical communicator at Cisco Systems who dabbles in all kinds of things, including public speaking and blog writing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Public Speaking
 
-### Markdown
+* [Elevating the Hedgehog: Creativity in Technical Writing](http://www.writethedocs.org/videos/na/2015/elevating-the-hedgehog-creativity-in-tech-writing-tfranko/) (Write the Docs North America, 2015)
+* [Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment](https://www.youtube.com/watch?v=y8yhjVYXa20) (Write the Docs North America, 2016)
+* [Everything you always wanted to know about Toastmasters*](https://www.youtube.com/watch?v=IahaXc6G0os) (Lightning Talk for Write the Docs North America, 2018)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanafranko/tanafranko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Blog Writing
+* [How Cisco's Technology Helps to Build Communities](https://blogs.cisco.com/lifeatcisco/how-ciscos-technology-helps-to-build-communities) (Life at Cisco Blog, 2018)
